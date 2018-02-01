@@ -11,7 +11,7 @@ public class DBResourceManager {
 //	private static String PASSWORD = "root";
 
 	 private static String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-	 private static String JDBC_URL = "jdbc:mysql://172-31-50-62:3306/gestor?autoReconnect=true&useUnicode=yes";
+	 private static String JDBC_URL = "jdbc:mysql://172.31.62.133:3306/gestor?autoReconnect=true&useUnicode=yes";
 	 private static String USER = "userMFL";
 	 private static String PASSWORD = "TSlaR7JE6QE0SbEj";
 
